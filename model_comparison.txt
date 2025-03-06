@@ -1,0 +1,87 @@
+Prompt      Best Model      Reason
+
+1           Claude	        Most detailed and well-explained
+2           Claude	        Best storytelling, Titan failed
+3           Nova Lite       Balanced between simplicity and accuracy
+4           Claude          Clear and beginner-friendly
+5	        Claude          Most detailed and structured
+
+
+
+Analysis of Responses
+Prompt 1: Who was Albert Einstein?
+
+Claude ✅ (Best Response)
+Pros: Provides detailed and well-structured information, covering both Special and General Relativity, including key principles and real-world impact.
+Cons: None; very thorough.
+
+Nova Lite 👍
+Pros: Covers General Relativity, E=mc², and the photoelectric effect, plus Einstein's Nobel Prize.
+Cons: Less explanation of Special Relativity compared to Claude.
+
+Titan Text Lite 👎 (Weakest)
+Pros: Mentions E=mc² and Einstein’s role in modern physics.
+Cons: Oversimplified, lacks depth (no mention of relativity theories, Nobel Prize, or major contributions).
+📌 Winner: Claude (Best explanation, followed by Nova Lite)
+
+
+Prompt 2: Write a short bedtime story about a friendly dragon helping lost travelers.
+
+Claude ✅ (Best Response)
+Pros: Creative, engaging, well-structured, strong storytelling, and emotional depth. Uses vivid descriptions.
+Cons: None.
+
+Nova Lite 👍
+Pros: Detailed and imaginative, similar structure to Claude, but slightly less engaging.
+Cons: A bit long-winded compared to Claude.
+
+Titan Text Lite ❌ (Failure)
+Model refused to generate a story (likely due to safety restrictions).
+📌 Winner: Claude (Nova Lite is close, but Titan failed to generate a response)
+
+
+Prompt 3: Summarize photosynthesis in one sentence.
+
+Claude 👍
+Pros: Extremely simple and concise.
+Cons: Too vague (no mention of CO₂, water, or chlorophyll).
+
+Nova Lite ✅ (Best Response)
+Pros: Still concise but slightly better than Claude by mentioning "green plants" and "sunlight."
+
+Titan Text Lite 👍
+Pros: Most scientifically accurate, mentioning chlorophyll, chloroplasts, CO₂, and glucose.
+Cons: More technical, not as simple as the prompt requested.
+📌 Winner: Nova Lite (Balanced between simplicity and accuracy)
+
+
+Prompt 4: Suggest three easy exercises for beginners.
+
+Claude ✅ (Best Response)
+Pros: Gives clear, well-structured advice (walking, bodyweight exercises, yoga). Easy for beginners.
+Cons: None.
+
+Nova Lite 👍
+Pros: Structured well, detailed explanations for each exercise. Includes benefits.
+Cons: More detailed than necessary, slightly longer than needed.
+
+Titan Text Lite 👎
+Pros: Provides three exercises.
+Cons: Less structured, missing guidance on how to do them properly. "Hanging Knee-ups" may be too advanced for beginners.
+📌 Winner: Claude (Clear, concise, and beginner-friendly)
+
+
+Prompt 5: How does reading benefit mental health?
+
+Claude ✅ (Best Response)
+Pros: Covers all aspects (stress relief, empathy, focus, sleep, cognitive health) in clear, structured points.
+Cons: None.
+
+Nova Lite 👍
+Pros: Well-structured, similar to Claude, but slightly shorter.
+Cons: Less detail than Claude.
+
+Titan Text Lite 👎
+Pros: Lists good points.
+Cons: Some explanations are vague (e.g., "creative expression" section is unclear). Lacks structure.
+📌 Winner: Claude (Most detailed and well-structured)
